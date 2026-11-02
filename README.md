@@ -14,7 +14,7 @@ Repositorio del equipo con los entregables de los laboratorios computacionales d
 
 ## Integrantes
 
-- Thomas Ramírez Villa
-- Sebastián Gutiérrez Rodríguez
 - Nicol Velez Arboleda
 - Sofía Hoyos Tabares
+- Sebastián Gutiérrez Rodríguez
+- Thomas Ramírez Villa
