@@ -7,7 +7,12 @@ Cálculo Diferencial — Universidad Nacional de Colombia, Sede Manizales
 
 **Cuaderno en Google Colab:** [abrir en Colab](https://colab.research.google.com/drive/1kN63-rJsrc4HIS0IuVXrP69sc4KneaX0)
 
-**Equipo:** Ramírez · Gutiérrez · Vélez · Hoyos
+## Integrantes
+
+- Thomas Ramírez Villa
+- Sebastián Gutiérrez Rodríguez
+- Nicol Velez Arboleda
+- Sofía Hoyos Tabares
 
 ## Contenido
 
