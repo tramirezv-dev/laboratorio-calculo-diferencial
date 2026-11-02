@@ -9,10 +9,10 @@ Cálculo Diferencial — Universidad Nacional de Colombia, Sede Manizales
 
 ## Integrantes
 
-- Thomas Ramírez Villa
-- Sebastián Gutiérrez Rodríguez
 - Nicol Velez Arboleda
 - Sofía Hoyos Tabares
+- Sebastián Gutiérrez Rodríguez
+- Thomas Ramírez Villa
 
 ## Contenido
 
