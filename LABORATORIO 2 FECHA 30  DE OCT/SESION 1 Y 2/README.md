@@ -37,7 +37,7 @@ El plato propio es una frijolada. Subió de \$12.140 a \$28.015, un 130,8 %, emp
 
 La tarea puente no se pudo reproducir desde la fuente: el portal de microdatos del DANE respondió `HTTP 401: Unauthorized` a `congelar_sipsa.py`. Los controles del README del curso se revisaron sobre el congelado del curso y coinciden los seis. El cuaderno lo explica.
 
-Falta la bitácora de IA de Sofía, con su cacería estrella.
+La cacería estrella de Sofía ya está en el Momento 3; falta su bitácora de IA del L2.
 
 ## Datos
 

@@ -25,7 +25,6 @@ Cálculo Diferencial — Universidad Nacional de Colombia, Sede Manizales
 | `FOTOS ( EVIDENCIA )/` | Evidencias de las sesiones y recibo de energía usado en la auditoría (datos personales tachados) |
 | `FOTOS ( TAREA PUENTE )/` | Tarea puente a mano de Sofía (regla de los 25 días y misterio de febrero) |
 
-**Pendiente:** bitácora de IA de Sofía.
 
 ## Datos
 
