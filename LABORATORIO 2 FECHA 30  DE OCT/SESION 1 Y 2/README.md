@@ -33,11 +33,9 @@ El sancocho de Manizales pasó de \$13.695 en enero de 2013 a \$28.634 en diciem
 
 Para 2016, promediar y luego costear da lo mismo que costear y luego promediar: \$15.587,53 por los dos caminos. Con la mediana se separan \$63,05, porque la receta es lineal y la mediana no.
 
-El plato propio es una frijolada. Subió de \$12.140 a \$28.015, un 130,8 %, empujada casi toda por el frijol.
+El plato propio es una frijolada. Subió de \$12.140 a \$28.015, un 130,8 %. El frijol y el tocino suman cerca del 80 % de su costo, y los saltos de 2015 y 2022 los dio el frijol.
 
 La tarea puente no se pudo reproducir desde la fuente: el portal de microdatos del DANE respondió `HTTP 401: Unauthorized` a `congelar_sipsa.py`. Los controles del README del curso se revisaron sobre el congelado del curso y coinciden los seis. El cuaderno lo explica.
-
-La cacería estrella de Sofía ya está en el Momento 3; falta su bitácora de IA del L2.
 
 ## Datos
 
