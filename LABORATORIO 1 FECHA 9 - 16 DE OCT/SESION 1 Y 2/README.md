@@ -23,9 +23,9 @@ Cálculo Diferencial — Universidad Nacional de Colombia, Sede Manizales
 | `CODIGO SESION 2/` | Cuaderno de la sesión 2 (tarifa CHEC por API, `valor_factura`, estratos, nube) |
 | `TAREA PUENTE/` | Reproducción del dataset mensual y verificación |
 | `FOTOS ( EVIDENCIA )/` | Evidencias de las sesiones y recibo de energía usado en la auditoría (datos personales tachados) |
-| `FOTOS ( TAREA PUENTE )/` | *Pendiente* |
+| `FOTOS ( TAREA PUENTE )/` | Tarea puente a mano de Sofía (regla de los 25 días y misterio de febrero) |
 
-**Pendiente:** bitácora de IA y fotos de la tarea puente de Sofía.
+**Pendiente:** bitácora de IA de Sofía.
 
 ## Datos
 
